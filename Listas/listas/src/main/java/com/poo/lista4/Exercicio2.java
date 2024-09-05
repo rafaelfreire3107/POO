@@ -7,10 +7,10 @@ import java.util.concurrent.TimeUnit;
 public class Exercicio2 {
     public static void resolucao() throws InterruptedException {
 
-    Scanner leia = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
 
     System.out.println("Número de vendas do dia: ");
-    int numeroVendas = leia.nextInt();
+    int numeroVendas = sc.nextInt();
 
     double vendas[] = new double [numeroVendas];
     double totalVendas = 0;
@@ -19,7 +19,7 @@ public class Exercicio2 {
 
         for (int i = 0; i < numeroVendas; i++) {
             System.out.println("Digite o valor da venda " + (i + 1) + ":");
-            vendas[i] = leia.nextDouble();
+            vendas[i] = sc.nextDouble();
 
             if(vendas[i] > valorMaior && vendas[i] !=0){
                 valorMaior = vendas[i];

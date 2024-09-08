@@ -1,6 +1,8 @@
 package com.poo.lista4;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+/*3) Ainda utilizando o exercício do mercado, calcule o ticket médio de
+vendas do dia*/
 public class Exercicio3 {
 
     public static void resolucao()throws InterruptedException {

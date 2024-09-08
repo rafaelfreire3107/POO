@@ -2,6 +2,8 @@ package com.poo.lista4;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Comparator;
+/*8) Aproveite os códigos anteriores e implemente a função de impressão
+por ordem de preço (crescente)*/
 
 public class Exercicio8 {
     

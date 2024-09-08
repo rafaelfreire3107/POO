@@ -3,6 +3,9 @@ package com.poo.lista4;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+/*5) Escreva um programa que sirva como uma lista de compras de
+mercado. Você irá criar um menu que pergunte se o usuário quer inserir
+um item ou ver a lista.*/
 
 public class Exercicio5 {
     public static void resolucao() throws InterruptedException {

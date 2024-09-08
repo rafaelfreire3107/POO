@@ -1,6 +1,9 @@
 package com.poo.lista4;
 import java.util.ArrayList;
 import java.util.Scanner;
+/*7) Aproveite o código que estamos utilizando e implemente um preço
+para cada item (Dica. Utilizem outra lista e use os mesmos índices para
+o item e para o preço).*/
 
 public class Exercicio7 {
 

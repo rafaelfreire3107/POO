@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
+/*6) Aproveite a questão anterior e adiciona a opção do usuário remover
+um item.*/
 
 public class Exercicio6 {
     public static void resolucao() throws InterruptedException {
